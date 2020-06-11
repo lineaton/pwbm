@@ -109,8 +109,6 @@ def process_soca_table(directory, year):
 
     # iterate through each table pair
     for table_no in range(len(start_row_indeces)):
-        shortTermIndex = start_row_indeces[table_no]
-        longTermIndex = start_row_indeces[table_no] + space
         
         table_inds = [start_row_indeces[table_no], start_row_indeces[table_no] + space]
 
