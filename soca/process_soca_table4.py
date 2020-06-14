@@ -145,16 +145,6 @@ def process_soca_table(directory, year):
     results = pd.concat([results, subtables])
     return results
 
-
-
-
-
-
-
-
-
-
-
 def process_soca_table_4():
     # load interfaces
     # _interface_paths = json.load(open(os.path.join('..','..','.interface_paths.json')))

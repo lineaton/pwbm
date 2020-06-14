@@ -150,18 +150,18 @@ def process_ip_table(directory):
     #Data, TableID, Year, HoldingPeriod, TransactionType, AssetType, AGI, Series, Valu
 
     # based on row, changes after each start_row_index
-    table_ids = ["N/A"]
-    asset_type = ["N/A"]
+    table_ids = [""]
+    asset_type = ["AllAssets"]
 
     # based on row, in each pair of subtables, first in pair is short term, second is long term
-    holding_periods = ["N/A"]
+    holding_periods = ["ShortTermAndLongTerm"]
 
     # based on row in subtable 
     agi_categories = ["AllReturns", "AdjustedGrossDeficit and Under 5,000", "5,000 under 10,000", "10,000 under 15,000", "15,000 under 20,000", \
     "20,000 under 25,000", "25,000 under 30,000", "30,000 under 40,000", "40,000 under 50,000", "50,000 under 75,000", "75,000 under 100,000", "100,000 under 200,000", \
     "200,000 under 500,000", "500,000 under 1,000,000", "1,000,000 under 1,500,000", "1,500,000 under 2,000,000", "2,000,000 under 5,000,000", "5,000,000 under 10,000,000", "10,000,000 or more"]
 
-    transaction_types = ["N/A"]
+    transaction_types = ["AllTransactions"]
 
     # based on column: trans_inds: returns, trans_inds + 1: trans, 4: gain, 7: loss
     series = ["NumberOfReturns", "NumberOfReturns", "NumberOfTransactions", "Gain", "NumberOfReturns", "NumberOfTransactions", "Loss"]
@@ -197,13 +197,6 @@ def process_ip_table(directory):
     #     "AssetType", "AGI", "Series", "Value"]]
     # results = pd.concat([results, subtables])
     # return results
-
-
-
-
-
-
-
 
 def process_soca_table_2():
     # load interfaces
