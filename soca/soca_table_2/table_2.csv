@@ -5669,3 +5669,687 @@ SOIIndividual,Table2E,1999,LongTerm,GainTransaction,Other,"1,000,000 or more",Ga
 SOIIndividual,Table2E,1999,LongTerm,LossTransaction,Other,"1,000,000 or more",NumberOfReturns,117519.12
 SOIIndividual,Table2E,1999,LongTerm,LossTransaction,Other,"1,000,000 or more",NumberOfTransactions,309724.61
 SOIIndividual,Table2E,1999,LongTerm,LossTransaction,Other,"1,000,000 or more",Loss,-5877943.394
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NumberOfReturns,23328723.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,SalesPrice,4083968569.2
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,Basis,3713007851.6
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NetGainsAndLosses,496284307.292
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NumberOfReturns,1314453.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",SalesPrice,165173801.047
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",Basis,158747089.965
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NetGainsAndLosses,7379631.7106
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NumberOfReturns,902087.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",SalesPrice,58771387.544
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",Basis,56469681.698
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NetGainsAndLosses,706746.59035
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NumberOfReturns,1024226.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",SalesPrice,53023043.414000005
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",Basis,51100295.182
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NetGainsAndLosses,440353.36879
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NumberOfReturns,1021728.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",SalesPrice,79607095.671
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",Basis,78182827.387
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NetGainsAndLosses,881611.6946
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NumberOfReturns,894108.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",SalesPrice,34584939.577
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",Basis,31194596.644
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NetGainsAndLosses,1048501.8915400001
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NumberOfReturns,883044.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",SalesPrice,29622653.501999997
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",Basis,28337693.776
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NetGainsAndLosses,938831.49989
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NumberOfReturns,1659393.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",SalesPrice,74129944.637
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",Basis,72138300.216
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NetGainsAndLosses,1919365.76114
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NumberOfReturns,1668745.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",SalesPrice,87462895.971
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",Basis,80276689.77700001
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NetGainsAndLosses,2509321.12091
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NumberOfReturns,4062964.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",SalesPrice,258644745.03000003
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",Basis,242792179.838
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NetGainsAndLosses,10175083.8708
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NumberOfReturns,3143710.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",SalesPrice,321175173.35
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",Basis,301863261.73
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NetGainsAndLosses,14680782.3189
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NumberOfReturns,4496976.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",SalesPrice,479781959.16999996
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",Basis,424933525.28999996
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NetGainsAndLosses,53998239.1477
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NumberOfReturns,1656688.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",SalesPrice,495613433.32
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",Basis,437725822.7
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NetGainsAndLosses,63096264.640999995
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NumberOfReturns,376281.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",SalesPrice,309083736.48
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",Basis,265319508.185
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NetGainsAndLosses,51203476.2827
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NumberOfReturns,90271.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",SalesPrice,147651687.936
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",Basis,131657306.722
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NetGainsAndLosses,31050651.006300002
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NumberOfReturns,52885.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",SalesPrice,162316673.203
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",Basis,151901397.553
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NetGainsAndLosses,21354100.91579
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NumberOfReturns,52149.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",SalesPrice,174022870.759
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",Basis,149625635.742
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NetGainsAndLosses,45895681.4953
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NumberOfReturns,14975.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",SalesPrice,116658520.977
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",Basis,98191847.144
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NetGainsAndLosses,45761915.5716
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NumberOfReturns,14040.0
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",SalesPrice,1036644007.63
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",Basis,952550191.964
+SOIIndividualPanel,Table2,2004,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NetGainsAndLosses,143243748.4077
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NumberOfReturns,24416748.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,SalesPrice,5002874395.7791605
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,Basis,5307702917.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NetGainsAndLosses,744068006.3080001
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NumberOfReturns,1304156.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",SalesPrice,150556382.571
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",Basis,131289439.63
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NetGainsAndLosses,13208519.369900001
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NumberOfReturns,780283.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",SalesPrice,63121182.364999995
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",Basis,62336813.868
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NetGainsAndLosses,724159.97436
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NumberOfReturns,887023.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",SalesPrice,30662437.748999998
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",Basis,29517151.906
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NetGainsAndLosses,489029.31614999997
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NumberOfReturns,970250.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",SalesPrice,74790185.6097
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",Basis,71761199.6624
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NetGainsAndLosses,1553100.13451
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NumberOfReturns,909459.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",SalesPrice,39465258.383
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",Basis,36578251.907
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NetGainsAndLosses,1378137.2079099999
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NumberOfReturns,851877.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",SalesPrice,38653858.739999995
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",Basis,35166395.34
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NetGainsAndLosses,1213387.7461
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NumberOfReturns,1732614.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",SalesPrice,113654027.75299999
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",Basis,109934647.32
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NetGainsAndLosses,3763536.48295
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NumberOfReturns,1734025.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",SalesPrice,425415743.61300004
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",Basis,419581630.80799997
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NetGainsAndLosses,4493436.0426900005
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NumberOfReturns,4166651.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",SalesPrice,423145789.38
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",Basis,404790152.95
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NetGainsAndLosses,12457669.2951
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NumberOfReturns,3264914.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",SalesPrice,260736304.64
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",Basis,240880289.034
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NetGainsAndLosses,17024033.24782
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NumberOfReturns,5123031.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",SalesPrice,912746607.8000001
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",Basis,849683323.83
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NetGainsAndLosses,61337059.0539
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NumberOfReturns,1935839.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",SalesPrice,693005922.98
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",Basis,1468176055.88
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NetGainsAndLosses,99950245.8723
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NumberOfReturns,475725.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",SalesPrice,278609878.97
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",Basis,224392897.37
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NetGainsAndLosses,79372124.6699
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NumberOfReturns,113498.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",SalesPrice,156146952.65600002
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",Basis,132609871.56899999
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NetGainsAndLosses,32328705.369900003
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NumberOfReturns,44650.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",SalesPrice,82982586.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",Basis,68010467.655
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NetGainsAndLosses,24096833.3899
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NumberOfReturns,89265.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",SalesPrice,670037496.75
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",Basis,606181518.275
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NetGainsAndLosses,101657995.5385
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NumberOfReturns,18774.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",SalesPrice,122490501.624
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",Basis,103539160.216
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NetGainsAndLosses,42009830.809
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NumberOfReturns,14714.0
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",SalesPrice,466653278.19546014
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",Basis,313273649.766
+SOIIndividualPanel,Table2,2005,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NetGainsAndLosses,247010202.791
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NumberOfReturns,24149411.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,SalesPrice,4327545680.6
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,Basis,3861255842.2
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NetGainsAndLosses,744360063.346
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NumberOfReturns,1103056.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",SalesPrice,220132666.403
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",Basis,211933778.853
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NetGainsAndLosses,8007918.7993
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NumberOfReturns,693097.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",SalesPrice,20497948.931500003
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",Basis,20572809.8033
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NetGainsAndLosses,368280.22968
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NumberOfReturns,787012.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",SalesPrice,53247738.887
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",Basis,52333362.305999994
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NetGainsAndLosses,1210620.27251
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NumberOfReturns,915927.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",SalesPrice,49143591.031
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",Basis,47509035.759
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NetGainsAndLosses,2036805.29628
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NumberOfReturns,727258.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",SalesPrice,105564448.788
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",Basis,104876619.38100001
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NetGainsAndLosses,988463.11567
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NumberOfReturns,747628.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",SalesPrice,25447421.266
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",Basis,21908408.297
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NetGainsAndLosses,1994160.76274
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NumberOfReturns,1577440.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",SalesPrice,85787925.337
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",Basis,81745092.639
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NetGainsAndLosses,2910243.9217000003
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NumberOfReturns,1680196.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",SalesPrice,57741900.621
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",Basis,54080615.762
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NetGainsAndLosses,5956762.3013
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NumberOfReturns,4095574.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",SalesPrice,249730005.44
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",Basis,231234031.643
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NetGainsAndLosses,16566065.5414
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NumberOfReturns,3339087.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",SalesPrice,232217643.5
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",Basis,215067364.948
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NetGainsAndLosses,20252629.556590002
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NumberOfReturns,5451300.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",SalesPrice,748601156.86
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",Basis,688628831.83
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NetGainsAndLosses,67826338.4252
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NumberOfReturns,2213118.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",SalesPrice,709826684.54
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",Basis,637434408.76
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NetGainsAndLosses,96631086.66679999
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NumberOfReturns,515917.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",SalesPrice,325737259.95
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",Basis,265651234.31
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NetGainsAndLosses,81141894.27319999
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NumberOfReturns,119814.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",SalesPrice,163346422.28100002
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",Basis,136023946.946
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NetGainsAndLosses,39357234.020899996
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NumberOfReturns,45489.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",SalesPrice,93452882.531
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",Basis,79294733.694
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NetGainsAndLosses,21691707.94447
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NumberOfReturns,97673.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",SalesPrice,511957026.18
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",Basis,468150059.608
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NetGainsAndLosses,94005134.889
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NumberOfReturns,23944.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",SalesPrice,199577621.991
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",Basis,178339016.764
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NetGainsAndLosses,72025839.4009
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NumberOfReturns,15881.0
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",SalesPrice,475535336.02
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",Basis,366472490.862
+SOIIndividualPanel,Table2,2006,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NetGainsAndLosses,211388877.93400002
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NumberOfReturns,24529064.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,SalesPrice,5148482712.5
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,Basis,4564359837.6
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NetGainsAndLosses,916519708.6669999
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NumberOfReturns,965595.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",SalesPrice,201794900.958
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",Basis,201168435.846
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NetGainsAndLosses,5899315.440100001
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NumberOfReturns,616314.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",SalesPrice,19896401.0084
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",Basis,19639953.131
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NetGainsAndLosses,727336.13955
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NumberOfReturns,739506.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",SalesPrice,27837899.783
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",Basis,26348909.631
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NetGainsAndLosses,1405374.53094
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NumberOfReturns,864481.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",SalesPrice,22172679.714700002
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",Basis,21605157.3866
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NetGainsAndLosses,2600171.972
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NumberOfReturns,729313.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",SalesPrice,28374600.409
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",Basis,27605689.371
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NetGainsAndLosses,1696276.66153
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NumberOfReturns,817138.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",SalesPrice,28259372.7839
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",Basis,24569955.7804
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NetGainsAndLosses,2665745.30675
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NumberOfReturns,1608216.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",SalesPrice,48225812.063999996
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",Basis,58542203.739
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NetGainsAndLosses,-8976637.883000001
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NumberOfReturns,1579763.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",SalesPrice,195978738.625
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",Basis,192202354.51
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NetGainsAndLosses,5154276.48295
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NumberOfReturns,4015455.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",SalesPrice,330292992.67
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",Basis,318729342.26600003
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NetGainsAndLosses,17125025.585899998
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NumberOfReturns,3407014.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",SalesPrice,187030953.946
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",Basis,169639967.98000002
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NetGainsAndLosses,20650870.61357
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NumberOfReturns,5818681.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",SalesPrice,860523573.6700001
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",Basis,755647376.28
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NetGainsAndLosses,73909020.18110001
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NumberOfReturns,2444215.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",SalesPrice,808739785.03
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",Basis,730051198.37
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NetGainsAndLosses,104556334.04439999
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NumberOfReturns,588908.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",SalesPrice,355779604.98
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",Basis,303014329.45
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NetGainsAndLosses,83539458.23851
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NumberOfReturns,147703.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",SalesPrice,193263244.573
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",Basis,161505264.49400002
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NetGainsAndLosses,47048129.600379996
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NumberOfReturns,47726.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",SalesPrice,78261228.574
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",Basis,68351927.833
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NetGainsAndLosses,21202897.5449
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NumberOfReturns,94309.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",SalesPrice,385919146.97
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",Basis,332078178.09
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NetGainsAndLosses,95622796.6586
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NumberOfReturns,26038.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",SalesPrice,747126085.822
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",Basis,722162423.359
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NetGainsAndLosses,53316500.0861
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NumberOfReturns,18689.0
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",SalesPrice,629005690.87
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",Basis,431497170.02
+SOIIndividualPanel,Table2,2007,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NetGainsAndLosses,388376817.462
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NumberOfReturns,27858907.94
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,SalesPrice,3692260460.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,Basis,3345549327.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NetGainsAndLosses,525135482.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NumberOfReturns,2160172.16
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",SalesPrice,89204857.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",Basis,85992214.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NetGainsAndLosses,3584304.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NumberOfReturns,1325767.01
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",SalesPrice,23075422.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",Basis,22095028.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NetGainsAndLosses,1910578.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NumberOfReturns,1191209.04
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",SalesPrice,40713202.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",Basis,39957846.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NetGainsAndLosses,1876549.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NumberOfReturns,1298694.36
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",SalesPrice,24582536.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",Basis,23644033.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NetGainsAndLosses,2714908.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NumberOfReturns,1181964.12
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",SalesPrice,29422290.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",Basis,28424890.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NetGainsAndLosses,2422171.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NumberOfReturns,1091698.56
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",SalesPrice,20812907.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",Basis,19253522.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NetGainsAndLosses,2595291.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NumberOfReturns,2379871.89
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",SalesPrice,106919853.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",Basis,101339840.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NetGainsAndLosses,7439243.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NumberOfReturns,2187606.02
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",SalesPrice,107966410.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",Basis,103652504.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NetGainsAndLosses,6568703.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NumberOfReturns,5075534.27
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",SalesPrice,179749672.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",Basis,168421415.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NetGainsAndLosses,20384663.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NumberOfReturns,3476453.81
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",SalesPrice,195360474.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",Basis,180251342.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NetGainsAndLosses,23408632.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NumberOfReturns,4418242.52
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",SalesPrice,600303958.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",Basis,554270856.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NetGainsAndLosses,63262519.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NumberOfReturns,1551689.43
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",SalesPrice,519608724.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",Basis,462635793.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NetGainsAndLosses,75493907.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NumberOfReturns,323577.19
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",SalesPrice,504038470.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",Basis,471334875.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NetGainsAndLosses,47595595.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NumberOfReturns,83587.2
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",SalesPrice,172866535.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",Basis,153044428.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NetGainsAndLosses,28349003.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NumberOfReturns,35435.87
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",SalesPrice,268366416.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",Basis,254543186.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NetGainsAndLosses,19864336.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NumberOfReturns,55266.03
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",SalesPrice,333812444.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",Basis,294096761.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NetGainsAndLosses,60649518.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NumberOfReturns,13662.64
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",SalesPrice,179832470.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",Basis,154715802.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NetGainsAndLosses,39919829.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NumberOfReturns,8475.82
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",SalesPrice,295623820.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",Basis,227874992.0
+SOIIndividualPanel,Table2,1999,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NetGainsAndLosses,117095733.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NumberOfReturns,29542415.59
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,SalesPrice,5088224593.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,Basis,4709938092.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NetGainsAndLosses,574082059.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NumberOfReturns,1841129.39
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",SalesPrice,227779667.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",Basis,221424000.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NetGainsAndLosses,850341.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NumberOfReturns,1347766.76
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",SalesPrice,56684417.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",Basis,56717684.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NetGainsAndLosses,992449.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NumberOfReturns,1316812.74
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",SalesPrice,53512891.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",Basis,54137122.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NetGainsAndLosses,1059248.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NumberOfReturns,1279684.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",SalesPrice,43352586.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",Basis,43430504.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NetGainsAndLosses,1730258.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NumberOfReturns,1225688.86
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",SalesPrice,91238634.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",Basis,89940656.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NetGainsAndLosses,2910950.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NumberOfReturns,1165900.95
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",SalesPrice,34155859.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",Basis,33855949.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NetGainsAndLosses,1922799.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NumberOfReturns,2453515.82
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",SalesPrice,84199557.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",Basis,80064631.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NetGainsAndLosses,5744018.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NumberOfReturns,2418512.75
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",SalesPrice,112795689.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",Basis,110450497.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NetGainsAndLosses,6028234.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NumberOfReturns,5232741.15
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",SalesPrice,581375919.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",Basis,573961498.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NetGainsAndLosses,16883445.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NumberOfReturns,3829895.6
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",SalesPrice,253752658.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",Basis,243444668.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NetGainsAndLosses,19552935.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NumberOfReturns,5024754.13
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",SalesPrice,689951074.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",Basis,655386436.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NetGainsAndLosses,57382491.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NumberOfReturns,1824649.72
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",SalesPrice,722667737.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",Basis,667928569.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NetGainsAndLosses,79171925.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NumberOfReturns,352197.26
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",SalesPrice,342136690.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",Basis,311064630.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NetGainsAndLosses,48586295.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NumberOfReturns,93898.92
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",SalesPrice,250751343.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",Basis,224323760.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NetGainsAndLosses,31357673.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NumberOfReturns,39114.23
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",SalesPrice,507075019.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",Basis,492681028.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NetGainsAndLosses,20006227.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NumberOfReturns,71060.81
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",SalesPrice,400558204.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",Basis,333384974.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NetGainsAndLosses,90841925.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NumberOfReturns,15286.74
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",SalesPrice,287108302.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",Basis,251720456.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NetGainsAndLosses,45580063.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NumberOfReturns,9805.76
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",SalesPrice,349128347.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",Basis,266021030.0
+SOIIndividualPanel,Table2,2000,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NetGainsAndLosses,143480783.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NumberOfReturns,25812463.97
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,SalesPrice,2834718905.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,Basis,2715813937.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NetGainsAndLosses,196542380.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NumberOfReturns,1779331.35
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",SalesPrice,298877581.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",Basis,306643727.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NetGainsAndLosses,-9332893.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NumberOfReturns,1068250.14
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",SalesPrice,42945002.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",Basis,46360457.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NetGainsAndLosses,-2800378.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NumberOfReturns,1074197.2
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",SalesPrice,48353160.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",Basis,51252326.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NetGainsAndLosses,-2845828.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NumberOfReturns,1166389.6
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",SalesPrice,33861174.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",Basis,35501902.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NetGainsAndLosses,-1414843.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NumberOfReturns,1050239.09
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",SalesPrice,30740985.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",Basis,32528527.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NetGainsAndLosses,-1460974.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NumberOfReturns,1081802.63
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",SalesPrice,43766779.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",Basis,44150537.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NetGainsAndLosses,319687.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NumberOfReturns,2161550.29
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",SalesPrice,79617486.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",Basis,81381711.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NetGainsAndLosses,-2393313.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NumberOfReturns,2050021.48
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",SalesPrice,69938868.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",Basis,69668724.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NetGainsAndLosses,-501309.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NumberOfReturns,4543353.16
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",SalesPrice,239465040.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",Basis,242820173.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NetGainsAndLosses,-2590264.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NumberOfReturns,3210592.6
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",SalesPrice,167153875.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",Basis,164242111.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NetGainsAndLosses,4073387.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NumberOfReturns,4552750.7
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",SalesPrice,546538631.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",Basis,529578649.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NetGainsAndLosses,16986968.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NumberOfReturns,1579785.46
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",SalesPrice,375796488.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",Basis,361783175.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NetGainsAndLosses,21370954.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NumberOfReturns,310468.36
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",SalesPrice,184281010.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",Basis,166927767.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NetGainsAndLosses,25124901.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NumberOfReturns,77198.92
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",SalesPrice,110700977.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",Basis,100407742.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NetGainsAndLosses,11982843.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NumberOfReturns,41381.68
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",SalesPrice,92842261.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",Basis,85142614.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NetGainsAndLosses,11502567.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NumberOfReturns,47897.83
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",SalesPrice,174890544.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",Basis,152676291.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NetGainsAndLosses,33353000.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NumberOfReturns,11095.78
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",SalesPrice,84402670.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",Basis,73959306.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NetGainsAndLosses,20640592.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NumberOfReturns,6157.7
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",SalesPrice,210546374.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",Basis,170788198.0
+SOIIndividualPanel,Table2,2001,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NetGainsAndLosses,74527283.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NumberOfReturns,23482026.24
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,SalesPrice,2867517621.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,Basis,2783223597.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NetGainsAndLosses,131871820.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NumberOfReturns,1659000.33
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",SalesPrice,377961088.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",Basis,385192172.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NetGainsAndLosses,-9180503.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NumberOfReturns,935836.1
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",SalesPrice,39627734.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",Basis,43034967.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NetGainsAndLosses,-3175941.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NumberOfReturns,1064931.38
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",SalesPrice,60158896.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",Basis,63293900.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NetGainsAndLosses,-3908135.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NumberOfReturns,1113438.45
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",SalesPrice,45360075.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",Basis,49623525.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NetGainsAndLosses,-4048246.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NumberOfReturns,961028.89
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",SalesPrice,37097780.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",Basis,38948910.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NetGainsAndLosses,-1351414.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NumberOfReturns,970097.8
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",SalesPrice,33953586.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",Basis,35236961.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NetGainsAndLosses,-2455033.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NumberOfReturns,1925619.13
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",SalesPrice,64514837.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",Basis,69027923.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NetGainsAndLosses,-5184507.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NumberOfReturns,1806609.98
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",SalesPrice,86620107.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",Basis,90645933.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NetGainsAndLosses,-3819178.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NumberOfReturns,4104286.13
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",SalesPrice,220410843.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",Basis,223203926.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NetGainsAndLosses,-3899206.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NumberOfReturns,2956277.22
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",SalesPrice,161200289.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",Basis,161754376.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NetGainsAndLosses,-2005899.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NumberOfReturns,4108440.55
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",SalesPrice,444257349.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",Basis,434278159.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NetGainsAndLosses,10480028.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NumberOfReturns,1443025.43
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",SalesPrice,515784712.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",Basis,497540482.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NetGainsAndLosses,23766128.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NumberOfReturns,275579.47
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",SalesPrice,194008381.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",Basis,177699008.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NetGainsAndLosses,18559667.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NumberOfReturns,73983.42
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",SalesPrice,93840853.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",Basis,85560675.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NetGainsAndLosses,10211532.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NumberOfReturns,25606.03
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",SalesPrice,51114950.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",Basis,49104137.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NetGainsAndLosses,3626552.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NumberOfReturns,40765.09
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",SalesPrice,144084336.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",Basis,130459077.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NetGainsAndLosses,21968369.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NumberOfReturns,11940.12
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",SalesPrice,76160411.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",Basis,65431130.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NetGainsAndLosses,15769473.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NumberOfReturns,5560.72
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",SalesPrice,221361394.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",Basis,183188336.0
+SOIIndividualPanel,Table2,2002,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NetGainsAndLosses,66518133.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NumberOfReturns,21651533.54
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,SalesPrice,3081431987.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,Basis,2855551805.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,AllReturns,NetGainsAndLosses,303754272.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NumberOfReturns,1503740.59
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",SalesPrice,250492435.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",Basis,251003945.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"AdjustedGrossDeficit and Under 5,000",NetGainsAndLosses,1960640.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NumberOfReturns,856074.34
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",SalesPrice,43800948.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",Basis,44542383.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000 under 10,000",NetGainsAndLosses,-1516937.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NumberOfReturns,954271.3
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",SalesPrice,62397208.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",Basis,60307695.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000 under 15,000",NetGainsAndLosses,-246613.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NumberOfReturns,1043471.6
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",SalesPrice,30885307.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",Basis,31309951.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"15,000 under 20,000",NetGainsAndLosses,-925297.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NumberOfReturns,887089.46
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",SalesPrice,137421588.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",Basis,135856813.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"20,000 under 25,000",NetGainsAndLosses,147195.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NumberOfReturns,823549.97
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",SalesPrice,33828138.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",Basis,32958862.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"25,000 under 30,000",NetGainsAndLosses,132454.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NumberOfReturns,1680672.25
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",SalesPrice,108345797.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",Basis,102884722.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"30,000 under 40,000",NetGainsAndLosses,3675172.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NumberOfReturns,1750747.45
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",SalesPrice,94514966.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",Basis,90795667.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"40,000 under 50,000",NetGainsAndLosses,1350893.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NumberOfReturns,3540632.89
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",SalesPrice,211800252.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",Basis,206575632.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"50,000 under 75,000",NetGainsAndLosses,3416949.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NumberOfReturns,2765042.94
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",SalesPrice,175026557.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",Basis,166626425.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"75,000 under 100,000",NetGainsAndLosses,7133988.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NumberOfReturns,3933975.65
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",SalesPrice,432199831.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",Basis,399825245.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"100,000 under 200,000",NetGainsAndLosses,30480137.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NumberOfReturns,1427731.81
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",SalesPrice,444111998.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",Basis,405588677.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"200,000 under 500,000",NetGainsAndLosses,48441235.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NumberOfReturns,305265.97
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",SalesPrice,211913870.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",Basis,187139820.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"500,000 under 1,000,000",NetGainsAndLosses,33720334.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NumberOfReturns,83360.34
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",SalesPrice,175555929.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",Basis,151912333.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,000,000 under 1,500,000",NetGainsAndLosses,29434538.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NumberOfReturns,34445.19
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",SalesPrice,67774013.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",Basis,59454758.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"1,500,000 under 2,000,000",NetGainsAndLosses,15905405.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NumberOfReturns,44552.65
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",SalesPrice,229385251.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",Basis,208046940.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"2,000,000 under 5,000,000",NetGainsAndLosses,35225109.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NumberOfReturns,11082.3
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",SalesPrice,84634916.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",Basis,75333761.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"5,000,000 under 10,000,000",NetGainsAndLosses,20412770.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NumberOfReturns,5826.84
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",SalesPrice,287342983.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",Basis,245388176.0
+SOIIndividualPanel,Table2,2003,ShortTermAndLongTerm,AllTransactions,AllAssets,"10,000,000 or more",NetGainsAndLosses,75006300.0

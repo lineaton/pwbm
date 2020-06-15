@@ -138,7 +138,7 @@ def process_soca_table(directory, year):
     return results
 
 
-def process_ip_table(directory):
+def process_ip_table(directory, start, end):
     wb = xlrd.open_workbook(filename = directory, formatting_info=True)
     sheet = wb.sheet_by_index(0)
     # determine where each table starts
@@ -149,54 +149,44 @@ def process_ip_table(directory):
     #process from each of the indeces and put into our categories of: 
     #Data, TableID, Year, HoldingPeriod, TransactionType, AssetType, AGI, Series, Valu
 
-    # based on row, changes after each start_row_index
-    table_ids = [""]
-    asset_type = ["AllAssets"]
-
-    # based on row, in each pair of subtables, first in pair is short term, second is long term
-    holding_periods = ["ShortTermAndLongTerm"]
-
     # based on row in subtable 
     agi_categories = ["AllReturns", "AdjustedGrossDeficit and Under 5,000", "5,000 under 10,000", "10,000 under 15,000", "15,000 under 20,000", \
     "20,000 under 25,000", "25,000 under 30,000", "30,000 under 40,000", "40,000 under 50,000", "50,000 under 75,000", "75,000 under 100,000", "100,000 under 200,000", \
     "200,000 under 500,000", "500,000 under 1,000,000", "1,000,000 under 1,500,000", "1,500,000 under 2,000,000", "2,000,000 under 5,000,000", "5,000,000 under 10,000,000", "10,000,000 or more"]
 
-    transaction_types = ["AllTransactions"]
 
     # based on column: trans_inds: returns, trans_inds + 1: trans, 4: gain, 7: loss
-    series = ["NumberOfReturns", "NumberOfReturns", "NumberOfTransactions", "Gain", "NumberOfReturns", "NumberOfTransactions", "Loss"]
+    series = ["NumberOfReturns", "SalesPrice", "Basis", "NetGainsAndLosses"]
 
     # generate subtable dataframe
     result = []
 
-    # iterate through each table pair
-    # for table_no in range(len(start_row_indeces)):
-        
+    #make end inclusive
+    end += 1
 
-    #     #iterate through rows in each table for short term
-    #     for table in range(len(table_inds)):
-    #         for row in range(len(agi_categories)):
-    #             rowInd = table_inds[table] + row - 1
-    #             holdingPeriod = holding_periods[table]
-    #             for col in range(len(transaction_types)):
-    #                 colInd = col + 1
-    #                 value = sheet.cell_value(rowInd, colInd)
-    #                 result.append({
-    #                     "Value": value,
-    #                     "Series": series[col],
-    #                     "AGI": agi_categories[row],
-    #                     "AssetType": asset_type[table_no],
-    #                     "TransactionType": transaction_types[col],
-    #                     "HoldingPeriod": holdingPeriod,
-    #                     "Year": year,
-    #                     "TableID": "Table2" + table_ids[table_no],
-    #                     "Data":'SOIIndividualPanel'
-    #                 })
-
-    # subtables = pd.DataFrame(result).loc[:, ["Data", "TableID", "Year", "HoldingPeriod", "TransactionType", \
-    #     "AssetType", "AGI", "Series", "Value"]]
-    # results = pd.concat([results, subtables])
-    # return results
+    for year in range(end-start):
+        for row in range(len(agi_categories)):
+            rowInd = start_row + row
+            for col in range(len(series)):
+                colInd = start_col + col + (year * len(series))
+                value = sheet.cell_value(rowInd, colInd)
+                result.append({
+                    "Value": value,
+                    "Series": series[col],
+                    "AGI": agi_categories[row],
+                    "AssetType": "AllAssets",
+                    "TransactionType": "AllTransactions",
+                    "HoldingPeriod": "ShortTermAndLongTerm",
+                    "Year": start + year,
+                    "TableID": "Table2",
+                    "Data":'SOIIndividualPanel'
+                })
+    
+    subtables = pd.DataFrame(result).loc[:, ["Data", "TableID", "Year", "HoldingPeriod", "TransactionType", \
+        "AssetType", "AGI", "Series", "Value"]]
+    results = pd.concat([results, subtables])
+    return results
+ 
 
 def process_soca_table_2():
     # load interfaces
@@ -236,15 +226,18 @@ def process_soca_table_2():
             result_df = process_soca_table(file_path, year)
             results = pd.concat([results, result_df])
             
-    # for filename in file_list_2:
-    #     if filename != '.DS_Store':
-    #         print ("------")
-    #         print(filename)
-    #         file_path = (os.path.join(_interface_paths['soca'], 'soca_table_2',filename))
-    #         if filename == '04-07in05st.xls':
-    #             file_path = os.path.join('SOI','SOCA', filename)
-    #         result_df = process_widetable(file_path)
-    #         results = pd.concat([results, result_df])
+    for filename in file_list_2:
+        if filename != '.DS_Store':
+            print ("------")
+            print(filename)
+            # file_path = (os.path.join(_interface_paths['soca'], 'soca_table_2',filename))
+            file_path = (os.path.join(directory, filename))
+            if filename == '07in02ai.xls':
+                result_df = process_ip_table(file_path, 2004, 2007)
+                results = pd.concat([results, result_df])
+            else:
+                result_df = process_ip_table(file_path, 1999, 2003)
+                results = pd.concat([results, result_df])
     
     # results.to_csv(os.path.join(_interface_paths['cache'],'Interfaces', 'table_2.csv'), index=False)
 
