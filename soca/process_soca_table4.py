@@ -1,20 +1,19 @@
 # -*- coding: utf-8 -*-
 '''
-    File name: process_soca_table2.py
+    File name: process_soca_table4.py
     Author: Eaton Lin
-    Date created: 6/3/2020
+    Date created: 6/9/2020
     Python version: 2.7
     Description: Script to parse through and process from SOCA data as classified by:
-        Size of Adjusted Gross Income and Selected Asset Type
+        Asset Type and Length of Time Held
 '''
 
 import pandas as pd
-import json
 import xlrd
 import os
 from itertools import product
 import numpy as np
-import win32com.client
+
 
 from utilities import   \
     is_number,          \
@@ -24,24 +23,8 @@ from utilities import   \
     get_subtables_3,    \
     clean_column_name,  \
     get_subtables,      \
-    filename_year
-
-def process_xlsx_conversion(directory):
-    conversion_list = []
-    for path, subdirs, files in os.walk(directory):
-        for name in files:
-            if name.endswith('xlsx') :
-                conversion_list.append(os.path.join(path, name))
-    
-    xl = win32com.client.Dispatch("Excel.Application")
-    xl.DisplayAlerts = False
-    for item in conversion_list: 
-        if not os.path.exists(os.path.join(item[:-1])) :
-            wb = xl.Workbooks.Open(os.path.join(os.getcwd(), item))
-            wb.SaveAs(os.path.join(os.getcwd(), item.replace('.xlsx', '.xls')), FileFormat = 56)
-            wb.Close()
-    
-    xl.Quit()
+    filename_year,      \
+    process_xlsx_conversion
 
 def process_soca_table(directory, year):
     wb = xlrd.open_workbook(filename = directory, formatting_info=True)
@@ -227,15 +210,7 @@ def process_ip_table(directory, start, end):
 
 
 def process_soca_table_4():
-    # load interfaces
-    # _interface_paths = json.load(open(os.path.join('..','..','.interface_paths.json')))
-    # # if cache reside with the repository instead of an outside drive.... this is necessary
-    # os.chdir(os.path.join('..','..'))
-    
-    # if not os.path.exists(os.path.join(_interface_paths["cache"], 'Interfaces')):
-    #     os.makedirs(os.path.join(_interface_paths["cache"], 'Interfaces'))
-        
-    # directory = os.path.join(_interface_paths['soca'], 'soca_table_2')
+
     directory = os.path.join('soca_table_4')
     print(directory)
     process_xlsx_conversion(directory) 
@@ -244,7 +219,7 @@ def process_soca_table_4():
 
     file_list_1 = ['07in04ab.xls','08in04soca.xls',\
                  '09in04soca.xls','1004insoca.xls','1104insoca.xls','1204insoca.xls',\
-                #  '97soca2a.xls',
+                #  '97soca4a.xls',
                 '98in8ab.xls','98in4ab.xls','99in04ab.xls']
     
     # individual panel
@@ -256,7 +231,6 @@ def process_soca_table_4():
         if filename != '.DS_Store':
             print ("------")
             print(filename)
-            # file_path = (os.path.join(_interface_paths['soca'], 'soca_table_2',filename))
             file_path = (os.path.join(directory, filename))
             year = filename_year(filename)
             if filename =='98in8ab.xls':
@@ -268,7 +242,6 @@ def process_soca_table_4():
         if filename != '.DS_Store':
             print ("------")
             print(filename)
-            # file_path = (os.path.join(_interface_paths['soca'], 'soca_table_2',filename))
             file_path = (os.path.join(directory, filename))
             if filename == '07in03tt.xls':
                 result_df = process_ip_table(file_path, 2004, 2007)
@@ -276,8 +249,6 @@ def process_soca_table_4():
             else:
                 result_df = process_ip_table(file_path, 1999, 2003)
                 results = pd.concat([results, result_df])
-    
-    # results.to_csv(os.path.join(_interface_paths['cache'],'Interfaces', 'table_2.csv'), index=False)
 
     results.to_csv(os.path.join(directory, 'table_4.csv'), index=False)
 

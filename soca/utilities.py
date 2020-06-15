@@ -7,11 +7,12 @@ Created on Tue May  7 16:50:57 2019
 
 import re
 import xlwt
+import os
 from itertools import product
 from xlutils.copy import copy
 import numpy as np
 import pandas as pd
-
+import win32com.client
 
 def to_camelcase(val):
 	return val \
@@ -215,3 +216,20 @@ def get_subtables_3(wb, sheet):
         table_name = table_name_new
         
     return subtable_row_start, subtable_row_end, table_name
+
+def process_xlsx_conversion(directory):
+    conversion_list = []
+    for path, subdirs, files in os.walk(directory):
+        for name in files:
+            if name.endswith('xlsx') :
+                conversion_list.append(os.path.join(path, name))
+    
+    xl = win32com.client.Dispatch("Excel.Application")
+    xl.DisplayAlerts = False
+    for item in conversion_list: 
+        if not os.path.exists(os.path.join(item[:-1])) :
+            wb = xl.Workbooks.Open(os.path.join(os.getcwd(), item))
+            wb.SaveAs(os.path.join(os.getcwd(), item.replace('.xlsx', '.xls')), FileFormat = 56)
+            wb.Close()
+    
+    xl.Quit()

@@ -9,12 +9,10 @@
 '''
 
 import pandas as pd
-import json
 import xlrd
 import os
 from itertools import product
 import numpy as np
-import win32com.client
 
 from utilities import   \
     is_number,          \
@@ -24,24 +22,8 @@ from utilities import   \
     get_subtables_3,    \
     clean_column_name,  \
     get_subtables,      \
-    filename_year
-
-def process_xlsx_conversion(directory):
-    conversion_list = []
-    for path, subdirs, files in os.walk(directory):
-        for name in files:
-            if name.endswith('xlsx') :
-                conversion_list.append(os.path.join(path, name))
-    
-    xl = win32com.client.Dispatch("Excel.Application")
-    xl.DisplayAlerts = False
-    for item in conversion_list: 
-        if not os.path.exists(os.path.join(item[:-1])) :
-            wb = xl.Workbooks.Open(os.path.join(os.getcwd(), item))
-            wb.SaveAs(os.path.join(os.getcwd(), item.replace('.xlsx', '.xls')), FileFormat = 56)
-            wb.Close()
-    
-    xl.Quit()
+    filename_year,      \
+    process_xlsx_conversion
 
 def process_soca_table(directory, year):
     wb = xlrd.open_workbook(filename = directory, formatting_info=True)
