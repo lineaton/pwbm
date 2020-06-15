@@ -83,7 +83,7 @@ def process_soca_table(directory, year):
     "2 months under 3 months", "3 months under 4 months", "4 months under 5 months", \
     "5 months under 6 months", "6 months under 7 months", "7 months under 8 months", \
     "8 months under 9 months", "9 months under 10 months", "10 months under 11 months", \
-    "11 months under 12 monthss", "1 year or more", "Holding period not determinable"]
+    "11 months under 12 months", "1 year or more", "Holding period not determinable"]
 
     lt_time_held_cats = ["AllReturns", "Under 18 months", "18 months under 2 years", \
     "2 years under 3 years", "3 years under 4 years", "4 years under 5 years", \
@@ -145,6 +145,87 @@ def process_soca_table(directory, year):
     results = pd.concat([results, subtables])
     return results
 
+
+def process_ip_table(directory, start, end):
+    wb = xlrd.open_workbook(filename = directory, formatting_info=True)
+    sheet = wb.sheet_by_index(0)
+    # determine where each table starts
+    start_row_st = 10 - 1
+    start_row_lt = 26 -1
+    start_col = 1
+    
+    results = pd.DataFrame()
+    #process from each of the indeces and put into our categories of: 
+    #Data, TableID, Year, HoldingPeriod, TransactionType, AssetType, AGI, Series, Valu
+
+    # based on row, in each pair of subtables, first in pair is short term, second is long term
+    holding_periods = ["ShortTerm", "LongTerm"]
+
+    # based on row in subtable 
+    st_time_held_cats = ["AllReturns", "Under 1 month", "1 month under 2 months", \
+    "2 months under 3 months", "3 months under 4 months", "4 months under 5 months", \
+    "5 months under 6 months", "6 months under 7 months", "7 months under 8 months", \
+    "8 months under 9 months", "9 months under 10 months", "10 months under 11 months", \
+    "11 months under 12 months", "1 year or more", "Holding period not determinable"]
+
+    lt_time_held_cats = ["AllReturns", "Under 18 months", "18 months under 2 years", \
+    "2 years under 3 years", "3 years under 4 years", "4 years under 5 years", \
+    "5 years under 10 years", "10 years under 15 years", "15 years under 20 years", \
+    "20 years or more", "Holding period not determinable"]
+
+    # based on column: all is [1], gain: [2-4], loss [5-7] 
+    transaction_types = ["GainTransaction", "GainTransaction", "GainTransaction", "GainTransaction","LossTransaction", "LossTransaction", "LossTransaction", "LossTransaction"]
+
+    # based on column: trans_inds: returns, trans_inds + 1: trans, 4: gain, 7: loss
+    series = ["NumberOfTransactions", "SalesPrice", "Basis", "Gain", "NumberOfTransactions", "SalesPrice", "Basis", "Loss"]
+
+
+    # generate subtable dataframe
+    result = []
+
+    #make end inclusive
+    end += 1
+
+    for year in range(end-start):
+        for row in range(len(st_time_held_cats)):
+            rowInd = start_row_st + row
+            for col in range(len(series)):
+                colInd = start_col + col + (year * len(series))
+                value = sheet.cell_value(rowInd, colInd)
+                result.append({
+                    "Value": value,
+                    "Series": series[col],
+                    "TimeHeld": st_time_held_cats[row],
+                    "AssetType": "AllAssets",
+                    "TransactionType": transaction_types[col],
+                    "HoldingPeriod": holding_periods[0],
+                    "Year": start + year,
+                    "TableID": "Table4",
+                    "Data":'SOIIndividualPanel'
+                })
+        for row in range(len(lt_time_held_cats)):
+            rowInd = start_row_lt + row
+            for col in range(len(series)):
+                colInd = start_col + col + (year * len(series))
+                value = sheet.cell_value(rowInd, colInd)
+                result.append({
+                    "Value": value,
+                    "Series": series[col],
+                    "TimeHeld": lt_time_held_cats[row],
+                    "AssetType": "AllAssets",
+                    "TransactionType": transaction_types[col],
+                    "HoldingPeriod": holding_periods[1],
+                    "Year": start + year,
+                    "TableID": "Table4",
+                    "Data":'SOIIndividualPanel'
+                })
+    
+    subtables = pd.DataFrame(result).loc[:, ["Data", "TableID", "Year", "HoldingPeriod", "TransactionType", \
+        "AssetType", "TimeHeld", "Series", "Value"]]
+    results = pd.concat([results, subtables])
+    return results
+
+
 def process_soca_table_4():
     # load interfaces
     # _interface_paths = json.load(open(os.path.join('..','..','.interface_paths.json')))
@@ -183,15 +264,18 @@ def process_soca_table_4():
             result_df = process_soca_table(file_path, year)
             results = pd.concat([results, result_df])
             
-    # for filename in file_list_2:
-    #     if filename != '.DS_Store':
-    #         print ("------")
-    #         print(filename)
-    #         file_path = (os.path.join(_interface_paths['soca'], 'soca_table_2',filename))
-    #         if filename == '04-07in05st.xls':
-    #             file_path = os.path.join('SOI','SOCA', filename)
-    #         result_df = process_widetable(file_path)
-    #         results = pd.concat([results, result_df])
+    for filename in file_list_2:
+        if filename != '.DS_Store':
+            print ("------")
+            print(filename)
+            # file_path = (os.path.join(_interface_paths['soca'], 'soca_table_2',filename))
+            file_path = (os.path.join(directory, filename))
+            if filename == '07in03tt.xls':
+                result_df = process_ip_table(file_path, 2004, 2007)
+                results = pd.concat([results, result_df])
+            else:
+                result_df = process_ip_table(file_path, 1999, 2003)
+                results = pd.concat([results, result_df])
     
     # results.to_csv(os.path.join(_interface_paths['cache'],'Interfaces', 'table_2.csv'), index=False)
 
